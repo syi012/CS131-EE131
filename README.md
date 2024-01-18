@@ -1,5 +1,4 @@
 | Jetson Nano Model |  |
-| :---: | :---: |
 | Jetpack version |  |
 | memory storage |  |
 | CPU temperature |  |
