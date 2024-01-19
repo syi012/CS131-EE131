@@ -46,7 +46,7 @@ Use Python memory_profiler to profile your own code and explain the results
   
 %load_ext memory_profiler  
   
-# Your code goes here:  
+Your code goes here:  
 def sum_of_lists(N):  
     total = 0  
     for i in range(10):  
